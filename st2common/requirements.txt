@@ -24,3 +24,4 @@ six==1.10.0
 tooz==1.57.4
 webob==1.7.3
 zake==0.2.2
+oslo.utils>=4.8.1 # not directly required, pinned by Snyk to avoid a vulnerability

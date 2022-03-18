@@ -23,7 +23,7 @@ nose
 nose-timer
 oslo.config<1.13,>=1.12.1
 oslo.utils<=3.33.0,>=3.15.0
-paramiko==2.4.0
+paramiko==2.10.1
 passlib==1.7.1
 prettytable
 prompt-toolkit==1.0.15
@@ -50,3 +50,4 @@ unittest2
 webob==1.7.4
 webtest
 zake==0.2.2
+waitress>=2.1.1 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -11,7 +11,7 @@ kombu==4.0.2
 mongoengine==0.12.0
 networkx==1.11
 oslo.config<1.13,>=1.12.1
-paramiko==2.2.1
+paramiko==2.10.1
 pymongo==3.4.0
 python-dateutil
 python-keyczar==0.716

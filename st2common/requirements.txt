@@ -1,7 +1,7 @@
 # Don't edit this file. It's generated automatically!
 apscheduler==3.3.1
 eventlet==0.19.0
-flex==6.10.0
+flex==6.12.0
 greenlet==0.4.12
 ipaddr
 jinja2
@@ -24,3 +24,4 @@ six==1.10.0
 tooz==1.57.4
 webob==1.7.3
 zake==0.2.2
+requests>=2.20 # not directly required, pinned by Snyk to avoid a vulnerability
